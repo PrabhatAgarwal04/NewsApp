@@ -10,7 +10,7 @@ A simple Android application that fetches and displays the latest U.S. news head
 
 ## Prerequisites
 - Android Studio (latest stable version)
-- NewsAPI.org API key (replace `YOUR_NEWS_API_KEY` in `MainActivity.kt`)
+- NewsAPI.org API key (replace `YOUR_NEWS_API_KEY` in `Module.kt`)
 
 ## Setup
 1. Clone the repository:
